@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GeekQuote</string>
+
+    <string-array name="quotes">
+        <item>Je suis ton père</item>
+        <item>Ok Boomer.</item>
+        <item>Mais Hagrid...</item>
+    </string-array>
+</resources>
